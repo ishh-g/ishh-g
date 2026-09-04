@@ -10,7 +10,7 @@ I'm a Computer Engineering student who loves turning ideas into working projects
 🚀 Always looking for opportunities to build something meaningful and learn along the way.  
 💬 Open to collaborating on **innovative and interesting projects**.  
 📫 Reach me at **goelishika1007@gmail.com**  
-⚡ Fun fact: **I debug my code better with coffee ☕😉**
+⚡ Fun fact: **I forget to push my codes all the time.**
 
 ---
 
