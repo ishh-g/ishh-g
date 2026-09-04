@@ -50,13 +50,13 @@ I'm a Computer Engineering student who loves turning ideas into working projects
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-- 🧩 Strengthening my **Data Structures & Algorithms** skills
-- ☕ Building applications using **Java and Python**
-- 🌐 Exploring **full-stack web development**
-- 🗄️ Working with relational databases and backend technologies
-- 💡 Turning ideas into practical and meaningful projects
+- Strengthening my **Data Structures & Algorithms** skills
+- Building applications using **Java and Python**
+- Exploring **full-stack web development**
+- Working with relational databases and backend technologies
+- Turning ideas into practical and meaningful projects
 
 ---
 
